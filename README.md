@@ -13,11 +13,11 @@ The dashboard helps identify sales trends, customer payment preferences, and pro
 • Monthly revenue trend analysis  
 
 ## Tools Used
-Power BI
-Power Query
-Data Modeling 
-DAX Measures  
-Data Visualization  
+• Power BI
+• Power Query
+• Data Modeling 
+• DAX Measures  
+• Data Visualization  
 
 ## Dashboard Insights
 • Electronics and Beauty contribute significantly to total sales  
